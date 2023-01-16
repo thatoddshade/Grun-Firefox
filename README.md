@@ -6,7 +6,7 @@
 Like this theme ? Check out my [BetterDiscord version](https://github.com/Shad0w-57/Grun-BetterDiscord "Shad0w-57/Grun-BetterDiscord: BetterDiscord theme").
 
 ## How to install ?
-* Go to the [addon page](https://addons.mozilla.org/fr/firefox/addon/grun-firefox/ "Grün for Firefox – Get this Theme for 🦊 Firefox").
+* Go to the [addon page](https://addons.mozilla.org/fr/firefox/addon/grun-dark/ "Grün download page").
 * Click on **Install Theme**.
 * Click on **Add**.
 
