@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Grün Light",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(255, 255, 255)",
+      "toolbar_text": "rgb(46, 34, 47)",
+      "frame": "rgb(199, 220, 208)",
+      "tab_background_text": "rgb(46, 34, 47)",
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(46, 34, 47)",
+      "tab_line": "rgb(255, 255, 255)",
+      "popup": "rgb(255, 255, 255)",
+      "popup_text": "rgb(46, 34, 47)",
+      "icons": "rgb(49, 54, 56)",
+      "ntp_background": "rgb(255, 255, 255)",
+      "popup_border": "rgb(255, 255, 255)",
+      "popup_highlight": "rgb(46, 34, 47)",
+      "sidebar_highlight_text": "rgb(255, 255, 255)",
+      "sidebar_highlight": "rgb(46, 34, 47)",
+      "sidebar_text": "rgb(46, 34, 47)",
+      "tab_loading": "rgb(49, 54, 56)",
+      "toolbar_bottom_separator": "rgb(255, 255, 255)",
+      "toolbar_field_highlight": "rgb(46, 34, 47)",
+      "toolbar_top_separator": "rgb(255, 255, 255)"
+    }
+  }
+}

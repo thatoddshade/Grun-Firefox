@@ -1,0 +1,38 @@
+{
+  "manifest_version": 2,
+  "version": "2.0",
+  "name": "Grün Dark",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(55, 78, 74)",
+      "toolbar_text": "rgb(199, 220, 208)",
+      "frame": "rgb(49, 54, 56)",
+      "tab_background_text": "rgb(199, 220, 208)",
+      "toolbar_field": "rgb(55, 78, 74)",
+      "toolbar_field_text": "rgb(199, 220, 208)",
+      "tab_line": "rgb(84, 126, 100)",
+      "popup": "rgb(55, 78, 74)",
+      "popup_text": "rgb(199, 220, 208)",
+      "ntp_background": "rgb(49, 54, 56)",
+      "ntp_text": "rgb(255, 255, 255)",
+      "popup_border": "rgb(55, 78, 74)",
+      "popup_highlight_text": "rgb(46, 34, 47)",
+      "sidebar_border": "rgb(55, 78, 74)",
+      "sidebar_highlight_text": "rgb(46, 34, 47)",
+      "sidebar_highlight": "rgb(255, 255, 255)",
+      "sidebar_text": "rgb(255, 255, 255)",
+      "sidebar": "rgb(55, 78, 74)",
+      "tab_loading": "rgb(178, 186, 144)",
+      "tab_selected": "rgb(84, 126, 100)",
+      "tab_text": "rgb(255, 255, 255)",
+      "toolbar_bottom_separator": "rgb(55, 78, 74)",
+      "toolbar_field_focus": "rgba(55, 78, 74, 0.84)",
+      "toolbar_field_highlight_text": "rgb(55, 78, 74)",
+      "toolbar_field_highlight": "rgb(255, 255, 255)",
+      "toolbar_field_text_focus": "rgb(255, 255, 255)",
+      "toolbar_top_separator": "rgb(49, 54, 56)"
+    }
+  }
+}
