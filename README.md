@@ -11,5 +11,5 @@ Like this theme ? Check out my [BetterDiscord version](https://github.com/Shad0w
 * Click on **Add**.
 
 ## Preview
-![image](https://addons.mozilla.org/user-media/version-previews/full/3922/3922355.svg?modified=1668622635)
+![image](https://addons.mozilla.org/user-media/version-previews/full/3931/3931287.svg?modified=1673889621)
 
